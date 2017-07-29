@@ -1,0 +1,24 @@
+{
+  "name": "mongo-typescript-def",
+  "version": "1.0.0",
+  "description": "Edited mongodb typescript definition with default schema type removed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjun-g/mongo-typescript-def.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arjun-g/mongo-typescript-def/issues"
+  },
+  "homepage": "https://github.com/arjun-g/mongo-typescript-def#readme",
+  "devDependencies": {
+    "@types/bson": "^1.0.3",
+    "@types/node": "^8.0.17"
+  }
+}
